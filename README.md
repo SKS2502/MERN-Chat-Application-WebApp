@@ -1,0 +1,2 @@
+# MERN-Chat-WebApp
+  MERN chat application project, Embark on seamless communication with our MERN-based chat application! Utilizing MongoDB for data storage, Express.js for server-side logic, React.js for dynamic front-end interfaces, and Node.js for real-time event handling, our application offers a modern, efficient chatting experience. With features like user authentication, real-time messaging, and intuitive interface design, connect with ease and elevate your conversations to new heights!
